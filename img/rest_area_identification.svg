@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="186.25369mm"
+   height="112.42794mm"
+   viewBox="0 0 186.25369 112.42794"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="rest_area_identification.svg"
+   inkscape:version="0.92.1 r15371"
+   inkscape:export-filename="C:\Users\Tim\Google Drive\Thesis Project\git_thesis\git\output\img\rest_area_identification.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker6868"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6866"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6214"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6212"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path5136"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:1;fill:#0000ff;fill-opacity:1"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4538">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.76499999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5.54715919;stroke-opacity:1"
+         id="rect4540"
+         width="66.683746"
+         height="57.195675"
+         x="-427.23035"
+         y="155.88168"
+         rx="14.136317"
+         ry="14.136317" />
+    </clipPath>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-5"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5136-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="646.82774"
+     inkscape:cy="86.82181"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-7.3226213,-108.54102)">
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4594"
+       d="m 131.72469,167.54315 c 9.38468,-34.24738 -29.58164,-8.92903 -24.19047,-58.39732"
+       style="fill:none;fill-rule:evenodd;stroke:#4d4d4d;stroke-width:11.16499996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Tim\Google Drive\Thesis Project\git_thesis\git\output\img\rest_area_identification.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4592"
+       d="M 38.553572,183.79613 C 82.145093,171.66036 118.20295,217.43601 131.91368,166.7872"
+       style="fill:none;fill-rule:evenodd;stroke:#4d4d4d;stroke-width:11.16499996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Tim\Google Drive\Thesis Project\git_thesis\git\output\img\rest_area_identification.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#4d4d4d;stroke-width:11.16499996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 8.819837,193.75192 c 43.591521,-12.13577 93.323213,-35.1378 98.714383,-84.60609"
+       id="path4588"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\Tim\Google Drive\Thesis Project\git_thesis\git\output\img\rest_area_identification.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4590"
+       d="m 8.819837,193.75192 c 43.591521,-12.13577 93.323213,-35.1378 98.714383,-84.60609"
+       style="fill:none;fill-rule:evenodd;stroke:#ffff00;stroke-width:0.86500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:5.1900001, 5.1900001;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Tim\Google Drive\Thesis Project\git_thesis\git\output\img\rest_area_identification.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.99561036;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:5.97366222, 5.97366222;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 130.00857,142.65672 54.15037,30.58122 c 7.84887,4.43262 11.73653,13.40354 7.96175,21.58913 l -7.68816,16.67171 c -3.77479,8.18558 -13.40353,11.73653 -21.58912,7.96175 l -63.22181,-23.39966 33.29993,-16.5898 z"
+       id="rect4601"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssssccc"
+       inkscape:export-filename="C:\Users\Tim\Google Drive\Thesis Project\git_thesis\git\output\img\rest_area_identification.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#f9f9f9;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 123.03125,193.71801 c 0.0945,0.37797 0.66146,10.86681 0.66146,10.86681"
+       id="path4604"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Tim\Google Drive\Thesis Project\git_thesis\git\output\img\rest_area_identification.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4606"
+       d="m 128.56293,195.89137 c 0.0945,0.37797 0.66146,10.86681 0.66146,10.86681"
+       style="fill:none;fill-rule:evenodd;stroke:#f9f9f9;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Tim\Google Drive\Thesis Project\git_thesis\git\output\img\rest_area_identification.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#f9f9f9;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 134.0946,197.97024 c 0.0945,0.37797 0.66146,10.86681 0.66146,10.86681"
+       id="path4608"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Tim\Google Drive\Thesis Project\git_thesis\git\output\img\rest_area_identification.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4610"
+       d="m 139.62628,199.76563 c 0.0945,0.37797 0.66146,10.86681 0.66146,10.86681"
+       style="fill:none;fill-rule:evenodd;stroke:#f9f9f9;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Tim\Google Drive\Thesis Project\git_thesis\git\output\img\rest_area_identification.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#f9f9f9;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 145.15795,202.22248 c 0.0945,0.37797 0.66146,10.86681 0.66146,10.86681"
+       id="path4612"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Tim\Google Drive\Thesis Project\git_thesis\git\output\img\rest_area_identification.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4614"
+       d="m 150.68962,204.49034 c 0.0945,0.37797 0.66146,10.86681 0.66146,10.86681"
+       style="fill:none;fill-rule:evenodd;stroke:#f9f9f9;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Tim\Google Drive\Thesis Project\git_thesis\git\output\img\rest_area_identification.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#f9f9f9;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 156.22129,206.19123 c 0.0945,0.37797 0.66146,10.86681 0.66146,10.86681"
+       id="path4616"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Tim\Google Drive\Thesis Project\git_thesis\git\output\img\rest_area_identification.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4618"
+       d="m 161.75296,208.59372 c 0.0945,0.37797 0.66146,10.86681 0.66146,10.86681"
+       style="fill:none;fill-rule:evenodd;stroke:#f9f9f9;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Tim\Google Drive\Thesis Project\git_thesis\git\output\img\rest_area_identification.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#f9f9f9;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 167.28463,210.01113 c 0.0945,0.37797 0.66146,10.86681 0.66146,10.86681"
+       id="path4620"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Tim\Google Drive\Thesis Project\git_thesis\git\output\img\rest_area_identification.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <g
+       id="g4667"
+       transform="rotate(9.9633953,176.27193,174.91867)"
+       inkscape:transform-center-x="20.935482"
+       inkscape:transform-center-y="-6.4473653"
+       inkscape:export-filename="C:\Users\Tim\Google Drive\Thesis Project\git_thesis\git\output\img\rest_area_identification.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#f9f9f9;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 141.74107,156.67634 c 0.0945,0.37797 0.66146,10.86681 0.66146,10.86681"
+         id="path4640"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4642"
+         d="m 147.27275,158.8497 c 0.0945,0.37797 0.66146,10.86681 0.66146,10.86681"
+         style="fill:none;fill-rule:evenodd;stroke:#f9f9f9;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#f9f9f9;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 152.80442,160.92857 c 0.0945,0.37797 0.66146,10.86681 0.66146,10.86681"
+         id="path4644"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4646"
+         d="m 158.3361,162.72396 c 0.0945,0.37797 0.66146,10.86681 0.66146,10.86681"
+         style="fill:none;fill-rule:evenodd;stroke:#f9f9f9;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#f9f9f9;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 163.86777,165.18081 c 0.0945,0.37797 0.66146,10.86681 0.66146,10.86681"
+         id="path4648"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4650"
+         d="m 169.39944,167.44867 c 0.0945,0.37797 0.66146,10.86681 0.66146,10.86681"
+         style="fill:none;fill-rule:evenodd;stroke:#f9f9f9;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#f9f9f9;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 174.93111,169.14956 c 0.0945,0.37797 0.66146,10.86681 0.66146,10.86681"
+         id="path4652"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4654"
+         d="m 180.46278,171.55205 c 0.0945,0.37797 0.66146,10.86681 0.66146,10.86681"
+         style="fill:none;fill-rule:evenodd;stroke:#f9f9f9;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#f9f9f9;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 185.99445,172.96946 c 0.0945,0.37797 0.66146,10.86681 0.66146,10.86681"
+         id="path4656"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.63020849px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="57.83036"
+       y="149.77826"
+       id="text4520"
+       inkscape:export-filename="C:\Users\Tim\Google Drive\Thesis Project\git_thesis\git\output\img\rest_area_identification.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan4518"
+         x="57.83036"
+         y="149.77826"
+         style="stroke-width:0.26458332px">Highway</tspan></text>
+    <g
+       id="g4586"
+       transform="matrix(0.24836702,0,0,0.24836702,166.54484,167.96406)"
+       inkscape:export-filename="C:\Users\Tim\Google Drive\Thesis Project\git_thesis\git\output\img\rest_area_identification.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <rect
+         ry="14.136311"
+         rx="14.136311"
+         y="-13.053872"
+         x="-147.7509"
+         height="157.16251"
+         width="157.16251"
+         id="rect4485"
+         style="opacity:1;fill:#2279bc;fill-opacity:1;stroke:none;stroke-width:3.36600018;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5.54715919;stroke-opacity:1" />
+      <text
+         id="text4511"
+         y="30.346586"
+         x="-120.95329"
+         style="font-style:normal;font-weight:normal;font-size:35.19844437px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.01133966px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-weight:bold;fill:#ffffff;stroke-width:2.01133966px"
+           y="30.346586"
+           x="-120.95329"
+           id="tspan4509"
+           sodipodi:role="line">REST</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:35.19844437px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.01133966px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-121.97591"
+         y="70.034088"
+         id="text4519"><tspan
+           sodipodi:role="line"
+           id="tspan4517"
+           x="-121.97591"
+           y="70.034088"
+           style="font-weight:bold;fill:#ffffff;stroke-width:2.01133966px">AREA</tspan></text>
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:3.00980973;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5.54715919;stroke-opacity:1"
+         id="rect4523"
+         width="140.53156"
+         height="140.53156"
+         x="-139.43542"
+         y="-4.7383957"
+         rx="12.640405"
+         ry="12.640405" />
+      <path
+         sodipodi:nodetypes="cscscccscscccssc"
+         inkscape:connector-curvature="0"
+         id="path4544"
+         d="m -86.995037,126.86428 c -2.14461,-2.1482 -3.8993,-4.02419 -3.8993,-4.16887 0,-0.14468 3.51235,-3.77389 7.80521,-8.06491 4.29287,-4.29101 7.80521,-7.87489 7.80521,-7.96417 0,-0.0893 -2.79629,-1.87482 -6.21399,-3.96787 -4.94657,-3.02936 -6.26661,-3.95649 -6.47198,-4.54561 -0.27853,-0.79899 -0.0428,-1.7349 0.56368,-2.23826 0.54301,-0.45065 36.26264,-7.21325 38.09996,-7.21325 1.15481,0 1.85278,0.71298 1.86127,1.90132 0.0123,1.71662 -5.783,28.30603 -8.02169,36.80448 -0.19692,0.74754 -0.48725,1.10908 -1.14099,1.42083 -1.74054,0.83 -2.08367,0.37294 -9.44701,-12.58362 l -0.81203,-1.42887 -7.98052,7.9773 c -4.38929,4.38752 -8.04082,7.97731 -8.11452,7.97731 -0.0737,0 -1.88869,-1.75762 -4.0333,-3.90581 z"
+         style="fill:#ffffff;stroke-width:0.26458335" />
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.32299995;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5.54715919;stroke-opacity:1"
+         id="rect4576"
+         width="145.82323"
+         height="145.82323"
+         x="-142.08125"
+         y="-7.3842292"
+         rx="13.116375"
+         ry="13.116375" />
+    </g>
+    <circle
+       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.56499994;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path5111"
+       cx="75.452835"
+       cy="184.11629"
+       r="1.1339285" />
+    <circle
+       r="1.1339285"
+       cy="141.49947"
+       cx="116.74673"
+       id="circle5113"
+       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.56499994;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.63020849px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="42.379913"
+       y="201.1252"
+       id="text5117"><tspan
+         sodipodi:role="line"
+         id="tspan5115"
+         x="42.379913"
+         y="201.1252"
+         style="fill:#0000ff;stroke-width:0.26458332px">vehicular traffic</tspan></text>
+    <text
+       id="text5121"
+       y="167.10736"
+       x="90.004913"
+       style="font-style:normal;font-weight:normal;font-size:4.63020849px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="fill:#ff0000;stroke-width:0.26458332px"
+         y="167.10736"
+         x="90.004913"
+         id="tspan5119"
+         sodipodi:role="line">Sensor Node</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.76499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 40.017561,191.29783 c 22.15856,-5.14466 31.228525,0.46099 49.609376,4.81919"
+       id="path5125"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.63020849px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="122.71835"
+       y="130.63663"
+       id="text5117-7"><tspan
+         sodipodi:role="line"
+         id="tspan5115-6"
+         x="122.71835"
+         y="130.63663"
+         style="fill:#0000ff;stroke-width:0.26458332px">vehicular traffic</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.76499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend-5)"
+       d="M 139.34931,145.18871 C 116.5287,134.18542 117.2832,129.8692 116.29277,120.90373"
+       id="path5125-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.76499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6214)"
+       d="m 110.15065,163.04808 c 3.35424,-6.18409 6.89807,-4.91034 6.89807,-17.5759"
+       id="path6210"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path6864"
+       d="m 108.92223,168.90671 c 0,9.31882 -15.591513,6.99591 -30.427079,13.89062"
+       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.76499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6868)" />
+  </g>
+</svg>
