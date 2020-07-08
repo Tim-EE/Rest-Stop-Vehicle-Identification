@@ -18,7 +18,7 @@ This system was developed as a  proof of concept and was able to achieve ~92% du
 
 ## The Code
 
-First and foremost, this code depends on the dynamic time warping library I made to familiarize myself with DTW: <insert URL>
+First and foremost, this code depends on the [dynamic time warping library I made to familiarize myself with DTW](https://github.com/Tim-EE/Dynamic-Time-Warping).
 
 The code in this repository was used to evaluate the accuracy of the data collected by setting up two sensors and having multiple cars driving over them many times to record magnetic signatures (`real_car_data.py`).
 
